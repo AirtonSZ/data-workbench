@@ -2,7 +2,7 @@
 
 ## Description
 
-A template for data scripts[D[D[D[D[D[D[Dscience [C[C[D[C[B[A[B
+An environment to develop multiple data projects
 
 ## Commands
 
